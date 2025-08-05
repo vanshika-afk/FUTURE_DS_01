@@ -1,32 +1,40 @@
-Task 1 - E-Commerce Sales Dashboard using Power BI | Future Interns Data Science Track 🛍️ FUTURE_DS_01 - E-Commerce Sales Dashboard
+# FUTURE_DS_01
+<h3>Task 1 – E-Commerce Sales Dashboard Using Power BI | Future Interns Data Science Track <br><br></h3>
+<b>Internship Track:</b> Data Science & Analytics<br>
+<b>Organization:</b>  Future Interns<br>
+<b>Intern:</b>  Vanshika<br>
+<hr>
+<h2>📌Task Objective<br></h2>
+<ul>
+<li>Build a Power BI dashboard to analyze historical e-commerce sales data and generate actionable insights for:<br></li>
+<li>Best-selling products<br></li>
+<li>Monthly sales trends<br></li>
+<li>Category & regional performance<br></li>
+<li>Key revenue indicators to support business decisions<br></li>
+</ul>
+<hr>
+<h2>📊Tools & Technologies Used<br></h2>
+<ul>
+<li>Power BI Desktop – Dashboard development<br></li>
+<li>Microsoft Excel – Data cleaning and preprocessing<br></li>
+<li>DAX – KPI calculations and advanced analytics<br></li>
+</ul>
+<hr>
 
-Internship Track: Data Science & Analytics
-Organization: Future Interns
-Intern: vanshika 
-Task 1: E-Commerce Sales Dashboard
+<h2>📈 Key Insights<br></h2>
+<ul>
+<li>Sales peak in northern region.<br></li>
+<li>Electronics category contributes highest revenue.<br></li>
+<li>🥇 Top products like “LED moniter” dominate sales.<br></li>
+<li>📍 West region leads in highest profit.<br></li>
+<li>North region leads in both sales and profit<br></li>
+</ul>
+<hr>
+<h2>📷 Dashboard</h2>
+<img width="1323" height="737" alt="image" src="https://github.com/user-attachments/assets/427b6398-4479-4339-8afd-2f7bf1edb7af" />
+<hr>
 
-📌 Task Objective
-Analyze e-commerce sales data to uncover:
-
-📅 Monthly sales trends
-🧱 Category & region performance
-🛒 Best-selling products
-📈 Key revenue insights for business decisions
-📊 Tools Used
-Power BI Desktop
-Microsoft Excel (for preprocessing)
-DAX (for KPIs & calculations)
-📈 Key Insights 
-💰 Electronics category contributes highest revenue.
-🥇 Top products like “LED Monitor” dominate sales.
-📍 West region leads in highest revnue.
-📆 Sales peak in northern region.
-
-📷 Dashboard Screenshot
-<img width="1323" height="737" alt="image" src="https://github.com/user-attachments/assets/9e86d533-7a8b-4c93-a9ff-196e3a49e56d" />
-
-
-📄 Files Included
-E-Commerce_Analytics_Dashboard_By_vanshika.pbix – Full Power BI file
-E-Commerce_Sales_Dashboard_vanshika.pdf – Exported PDF version
-Dashboard screenshots (PNG/JPG)
+📄 Files Included<br>
+E-Commerce_Analytics_Dashboard_By_vanshika.pbix – Full Power BI file<br>
+E-Commerce_Sales_Dashboard_vanshika.pdf – Exported PDF version<br>
+Dashboard screenshots (PNG/JPG)<br>
