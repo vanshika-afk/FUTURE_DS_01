@@ -40,4 +40,4 @@
 <li>Ecommerce_Sales_Analysis-CSV File</li>
 </ul>
 <hr>
-<h2>🔗 LinkedIn Post:</h2>
+<h2>🔗 LinkedIn Post: <a href="https://www.linkedin.com/posts/vanshika-dabla-1709a8273_powerbi-futureintern-ecommercenanalytics-activity-7358435247190921217-EjkU" >dashboard </a></h2>
