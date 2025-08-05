@@ -36,5 +36,8 @@
 
 <h2>📄 Files Included</h2><br>
 <ul>
-<li>BSD final-Power BI</li><br>
+<li>BSD final-Power BI</li>
 <li>Ecommerce_Sales_Analysis-CSV File</li>
+</ul>
+<hr>
+<h2>🔗 LinkedIn Post:</h2>
