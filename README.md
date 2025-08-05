@@ -34,7 +34,5 @@
 <img width="1323" height="737" alt="image" src="https://github.com/user-attachments/assets/427b6398-4479-4339-8afd-2f7bf1edb7af" />
 <hr>
 
-📄 Files Included<br>
-E-Commerce_Analytics_Dashboard_By_vanshika.pbix – Full Power BI file<br>
-E-Commerce_Sales_Dashboard_vanshika.pdf – Exported PDF version<br>
-Dashboard screenshots (PNG/JPG)<br>
+<h2>📄 Files Included</h2><br>
+<ul>
